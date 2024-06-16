@@ -1,0 +1,29 @@
+# Ignore environments
+env/
+report_j7/
+
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore virtual environment folders
+.venv/
+venv/
+ENV/
+
+# Ignore SQLite database files
+*.db
+*.sqlite3
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings folder
+.vscode/

@@ -1,0 +1,15 @@
+[pages]
+    [[pages.encarteirados]]
+    name = "Prospects puros e encarteirados com ≥ 5 colaboradores"
+    icon = ""
+    script = "pages/encarteirados.py"
+
+    [[pages.naoEncarteirados]]
+    name = "Prospects puros e não encarteirados ou com < 5 colaboradores"
+    icon = ""
+    script = "pages/naoEncarteirados.py"
+
+    [[pages.exClientes]]
+    name = "Ex-clientes"
+    icon = ""
+    script = "pages/exClientes.py"
